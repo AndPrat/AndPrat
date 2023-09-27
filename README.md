@@ -9,7 +9,7 @@
   
 ### :sunflower: Interests:
 :mountain_snow: Mountaineering <br>
-:pencil2: Illustration and illustration for web <br>
+:pencil2: Illustration and web illustration <br>
  💞️ Discover charming places
 
 </div>
