@@ -1,11 +1,24 @@
-<div id="badges" align="center">
+<div id="badges" align="left">
+
+
   
 ### :woman_technologist: About me:
 👋  Hi! I'm Andrea, a creative frontend developer, lover of design and illustration, <br>with the aim of creating creative web pages with a lot of identity.
 </div>
 
+<div align="left">
+  
 ---
-<div align="center">
+  
+### :books: Experience and education:
+After finishing the Online Master in Editorial and Advertising Illustration at LABASAD (2022) and graduating in Design at the BAU - Barcelona University Design Center, with a mention in Graphic Design (2019), I decided to advance my path by applying all this creativity in the Web design.
+
+For this reason I decided to study Full Stack Development at ISDI Coders (2023) to have a solid foundation in development, testing, and in the application of good practices in programming, with “clean code” as the principle.
+</div>
+
+---
+
+<div align="left">
   
 ### :sunflower: Interests:
 :mountain_snow: Mountaineering <br>
@@ -15,7 +28,7 @@
 </div>
 
 ---
-<div align="center">
+<div align="left">
 
 ### 🛠️ Languages and Tools :
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" width="50" height="50"> 
@@ -34,3 +47,13 @@
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256964/file-type-prettier-icon-sm.png" width="50" height="50">
 
 </div>
+
+---
+<div align="left">
+  
+### 💼 Get in Touch:
+LinkedIn: https://www.linkedin.com/in/andreaprat/
+  
+</div>
+
+
