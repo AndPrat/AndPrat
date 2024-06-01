@@ -3,8 +3,15 @@
 
   
 ### :woman_technologist: About me:
-👋  Hi! I'm Andrea, a creative frontend developer, lover of design and illustration, <br>with the aim of creating creative web pages with a lot of identity.
+👋  Hi! I'm Andrea, a creative frontend developer, passionate about design and illustration, <br>with the aim of creating creative web pages with a lot of identity.
+<br>
+My story began being written with the strokes of colored pencils, evolved with vectors and is now written with lines of code.
+<br>
+The passion for art, vectors and digital tools allowed me to explore and express my creativity in new dimensions.
+<br>
+Always looking to learn and grow, I immersed myself in the world of web development. Learning to program opened a universe of possibilities for me, where I combined my artistic skills with the logic and precision of the code. Today, as an illustrator, graphic designer and frontend developer, I enjoy creating visual and functional experiences that capture the essence of my ideas, from the first sketch to the last line of code.
 </div>
+
 
 <div align="left">
   
@@ -37,7 +44,7 @@ For this reason I decided to study Full Stack Development at ISDI Coders (2023) 
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="40" height="40"> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" width="40" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="55" height="40"> 
-<img src="https://camo.githubusercontent.com/f2c80b28082b1568bf6ae3e4b999dcf6916e4f7ef611aa48efed85198ebe53a9/68747470733a2f2f6a6573746a732e696f2f696d672f6a6573742e706e67" width="40" height="40"> 
+<img src="https://camo.githubusercontent.com/f2c80b28082b1568bf6ae3e4b999dcf6916e4f7ef611aa48efed85198ebe53a9/68747470733a2f2f6a6573746a732e696f2f696d672f6a6573742e706e67](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F3692006&psig=AOvVaw2LP1DfjXm-CV63eBD4gonD&ust=1717350015326000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDFs775uoYDFQAAAAAdAAAAABAK" width="40" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="40" height="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50">
